@@ -96,5 +96,3 @@ Protocol message format:
 Refer to the source files for implementation details and usage examples. The protocol is designed for reliable communication over UDP using shared memory for socket management.
 
 ---
-
-Let me know if you want to add sections for build instructions, usage examples, or troubleshooting!
